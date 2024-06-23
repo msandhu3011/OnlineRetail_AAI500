@@ -56,7 +56,7 @@ jupyter notebook CustomerSegmentation_OnlineRetail.ipynb
 ## Project Structure
 
 - `CustomerSegmentation_OnlineRetail.ipynb`: The main Jupyter notebook containing all the code for data loading, preprocessing, analysis, visualization, and clustering.
-- `data/`: Directory to store the dataset (not included in the repository).
+- `data/`: Directory to store the dataset[Online-Retail] (included in the repository).
 
 ## Contributing
 
